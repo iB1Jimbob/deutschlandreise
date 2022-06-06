@@ -1,277 +1,338 @@
-{
-  "berlin": {
+[
+  {
     "name": "Berlin",
     "state": "Berlin",
-    "airport": true
+    "airport": true,
+    "y": 2
   },
-  "hamburg": {
+  {
     "name": "Hamburg",
     "state": "Hamburg",
-    "airport": true
+    "airport": true,
+    "y": 1
   },
-  "münchen": {
+  {
     "name": "München",
     "state": "Bayern",
-    "airport": true
+    "airport": true,
+    "y": 5
   },
-  "köln": {
+  {
     "name": "Köln",
     "state": "Nordrhein-Westfalen",
-    "airport": true
+    "airport": true,
+    "y": 3.1
   },
-  "frankfurt am main": {
+  {
     "name": "Frankfurt am Main",
     "state": "Hessen",
-    "airport": true
+    "airport": true,
+    "y": 4
   },
-  "stuttgart": {
+  {
     "name": "Stuttgart",
     "state": "Baden-Württemberg",
-    "airport": true
+    "airport": true,
+    "y": 5
   },
-  "düsseldorf": {
+  {
     "name": "Düsseldorf",
     "state": "Nordrhein-Westfalen",
-    "airport": true
+    "airport": true,
+    "y": 3
   },
-  "dortmund": {
+  {
     "name": "Dortmund",
     "state": "Nordrhein-Westfalen",
-    "airport": true
+    "airport": true,
+    "y": 3
   },
-  "essen": {
+  {
     "name": "Essen",
     "state": "Nordrhein-Westfalen",
-    "airport": false
+    "airport": false,
+    "y": 3.1
   },
-  "bremen": {
+  {
     "name": "Bremen",
     "state": "Bremen",
-    "airport": true
+    "airport": true,
+    "y": 1
   },
-  "dresden": {
+  {
     "name": "Dresden",
     "state": "Sachsen",
-    "airport": true
+    "airport": true,
+    "y": 3.1
   },
-  "leipzig": {
+  {
     "name": "Leipzig",
     "state": "Sachsen",
-    "airport": true
+    "airport": true,
+    "y": 3
   },
-  "hannover": {
+  {
     "name": "Hannover",
     "state": "Niedersachsen",
-    "airport": true
+    "airport": true,
+    "y": 2
   },
-  "nürnberg": {
+  {
     "name": "Nürnberg",
     "state": "Bayern",
-    "airport": true
+    "airport": true,
+    "y": 4
   },
-  "duisburg": {
+  {
     "name": "Duisburg",
     "state": "Nordrhein-Westfalen",
-    "airport": false
+    "airport": false,
+    "y": 3.1
   },
-  "wuppertal": {
+  {
     "name": "Wuppertal",
     "state": "Nordrhein-Westfalen",
-    "airport": false
+    "airport": false,
+    "y": 3
   },
-  "bonn": {
+  {
     "name": "Bonn",
     "state": "Nordrhein-Westfalen",
-    "airport": true
+    "airport": true,
+    "y": 3.1
   },
-  "bielefeld": {
+  {
     "name": "Bielefeld",
     "state": "Nordrhein-Westfalen",
-    "airport": false
+    "airport": false,
+    "y": 2
   },
-  "mannheim": {
+  {
     "name": "Mannheim",
     "state": "Baden-Württemberg",
-    "airport": false
+    "airport": false,
+    "y": 4
   },
-  "karlsruhe": {
+  {
     "name": "Karlsruhe",
     "state": "Baden-Württemberg",
-    "airport": true
+    "airport": true,
+    "y": 5
   },
-  "münster": {
+  {
     "name": "Münster",
     "state": "Nordrhein-Westfalen",
-    "airport": true
+    "airport": true,
+    "y": 2
   },
-  "wiesbaden": {
+  {
     "name": "Wiesbaden",
     "state": "Hessen",
-    "airport": false
+    "airport": false,
+    "y": 4
   },
-  "augsburg": {
+  {
     "name": "Augsburg",
     "state": "Bayern",
-    "airport": false
+    "airport": false,
+    "y": 5
   },
-  "aachen": {
+  {
     "name": "Aachen",
     "state": "Nordrhein-Westfalen",
-    "airport": false
+    "airport": false,
+    "y": 3
   },
-  "mönchengladbach": {
+  {
     "name": "Mönchengladbach",
     "state": "Nordrhein-Westfalen",
-    "airport": false
+    "airport": false,
+    "y": 3
   },
-  "gelsenkirchen": {
+  {
     "name": "Gelsenkirchen",
     "state": "Nordrhein-Westfalen",
-    "airport": false
+    "airport": false,
+    "y": 3.1
   },
-  "braunschweig": {
+  {
     "name": "Braunschweig",
     "state": "Niedersachsen",
-    "airport": true
+    "airport": true,
+    "y": 2
   },
-  "chemnitz": {
+  {
     "name": "Chemnitz",
     "state": "Sachsen",
-    "airport": false
+    "airport": false,
+    "y": 3
   },
-  "kiel": {
+  {
     "name": "Kiel",
     "state": "Schleswig-Holstein",
-    "airport": false
+    "airport": false,
+    "y": 0
   },
-  "krefeld": {
+  {
     "name": "Krefeld",
     "state": "Nordrhein-Westfalen",
-    "airport": false
+    "airport": false,
+    "y": 3.1
   },
-  "halle (saale)": {
+  {
     "name": "Halle (Saale)",
     "state": "Sachsen-Anhalt",
-    "airport": true
+    "airport": true,
+    "y": 3
   },
-  "magdeburg": {
+  {
     "name": "Magdeburg",
     "state": "Sachsen-Anhalt",
-    "airport": true
+    "airport": true,
+    "y": 2
   },
-  "lübeck": {
+  {
     "name": "Lübeck",
     "state": "Schleswig-Holstein",
-    "airport": true
+    "airport": true,
+    "y": 0
   },
-  "erfurt": {
+  {
     "name": "Erfurt",
     "state": "Thüringen",
-    "airport": true
+    "airport": true,
+    "y": 3.1
   },
-  "rostock": {
+  {
     "name": "Rostock",
     "state": "Mecklenburg-Vorpommern",
-    "airport": true
+    "airport": true,
+    "y": 0
   },
-  "mainz": {
+  {
     "name": "Mainz",
     "state": "Rheinland-Pfalz",
-    "airport": false
+    "airport": false,
+    "y": 4
   },
-  "kassel": {
+  {
     "name": "Kassel",
     "state": "Hessen",
-    "airport": true
+    "airport": true,
+    "y": 3
   },
-  "saarbrücken": {
+  {
     "name": "Saarbrücken",
     "state": "Saarland",
-    "airport": true
+    "airport": true,
+    "y": 4
   },
-  "leverkusen": {
+  {
     "name": "Leverkusen",
     "state": "Nordrhein-Westfalen",
-    "airport": false
+    "airport": false,
+    "y": 3
   },
-  "potsdam": {
+  {
     "name": "Potsdam",
     "state": "Brandenburg",
-    "airport": false
+    "airport": false,
+    "y": 2
   },
-  "paderborn": {
+  {
     "name": "Paderborn",
     "state": "Nordrhein-Westfalen",
-    "airport": true
+    "airport": true,
+    "y": 2
   },
-  "darmstadt": {
+  {
     "name": "Darmstadt",
     "state": "Hessen",
-    "airport": false
+    "airport": false,
+    "y": 4
   },
-  "regensburg": {
+  {
     "name": "Regensburg",
     "state": "Bayern",
-    "airport": false
+    "airport": false,
+    "y": 4
   },
-  "würzburg": {
+  {
     "name": "Würzburg",
     "state": "Bayern",
-    "airport": false
+    "airport": false,
+    "y": 4
   },
-  "ingolstadt": {
+  {
     "name": "Ingolstadt",
     "state": "Bayern",
-    "airport": true
+    "airport": true,
+    "y": 4
   },
-  "ulm": {
+  {
     "name": "Ulm",
     "state": "Baden-Württemberg",
-    "airport": false
+    "airport": false,
+    "y": 5
   },
-  "wolfsburg": {
+  {
     "name": "Wolfsburg",
     "state": "Niedersachsen",
-    "airport": true
+    "airport": true,
+    "y": 2
   },
-  "göttingen": {
+  {
     "name": "Göttingen",
     "state": "Niedersachsen",
-    "airport": false
+    "airport": false,
+    "y": 3.1
   },
-  "bremerhaven": {
+  {
     "name": "Bremerhaven",
     "state": "Bremen",
-    "airport": false
+    "airport": false,
+    "y": 1
   },
-  "koblenz": {
-    "name": "Koblenz",
-    "state": "Rheinland-Pfalz",
-    "airport": false
-  },
-  "erlangen": {
+  {
     "name": "Erlangen",
     "state": "Bayern",
-    "airport": false
+    "airport": false,
+    "y": 4
   },
-  "trier": {
+  {
     "name": "Trier",
     "state": "Rheinland-Pfalz",
-    "airport": false
+    "airport": false,
+    "y": 4
   },
-  "jena": {
+  {
     "name": "Jena",
     "state": "Thüringen",
-    "airport": false
+    "airport": false,
+    "y": 3.1
   },
-  "cottbus": {
+  {
     "name": "Cottbus",
     "state": "Brandenburg",
-    "airport": false
+    "airport": false,
+    "y": 2
   },
-  "sylt": {
+  {
     "name": "Sylt",
     "state": "Schleswig-Holstein",
-    "airport": true
+    "airport": true,
+    "y": 0
+  },
+  {
+    "name": "Schwedt",
+    "state": "Brandenburg",
+    "airport": false,
+    "y": 1
+  },
+  {
+    "name": "Freiburg",
+    "state": "Baden-Württemberg",
+    "airport": false,
+    "y": 5
   }
-}
+]

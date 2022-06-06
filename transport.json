@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bahn",
+        "speed": 0.3,
+        "price": 0.15
+    },
+    {
+        "name": "Flugzeug",
+        "speed": 0.12,
+        "price": 0.3
+    },
+    {
+        "name": "Taxi",
+        "speed": 0.4,
+        "price": 0.5
+    },
+    {
+        "name": "Anhalter",
+        "speed": 0.4,
+        "price": 0
+    },
+    {
+        "name": "Bus",
+        "speed": 0.55,
+        "price": 0.05
+    },
+    {
+        "name": "Laufen",
+        "speed": 12,
+        "price": 0
+    }
+]
